@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory android:title="@string/pref_cat_motion">
+    <CheckBoxPreference
+       android:key="motion.enable"
+       android:title="@string/pref_motion_enable_title"
+       android:summary="@string/pref_motion_enable_summary"
+       android:defaultValue="true"
+       />
+    <!--
+    <ListPreference
+       android:key="motion.behaviour"
+       android:title="@string/pref_motion_behaviour_title"
+       android:summary="@string/pref_motion_behaviour_summary"
+       android:entries="@array/pref_motion_behaviour_entries"
+       android:entryValues="@array/pref_motion_behaviour_entryvalues"
+       android:defaultValue="@string/pref_motion_behaviour_default"
+       />
+     -->
+    <ListPreference
+       android:key="motion.transparency"
+       android:title="@string/pref_motion_transparency_title"
+       android:summary="@string/pref_motion_transparency_summary"
+       android:entries="@array/pref_motion_transparency_entries"
+       android:entryValues="@array/pref_motion_transparency_entryvalues"
+       android:defaultValue="0.0"
+       />
+      <!--
+      <ListPreference
+          android:key="motion.string"
+          android:title="这是一只神奇的狐狸"
+          android:summary="大概是最奇怪的生日礼物
+          1、记得去开悬浮框
+          2、不要关掉app
+          （还有不要点击这里）"
+          />
+          -->
+      <Preference android:key="preference"
+          android:title="这是一只神奇的狐狸"
+          android:defaultValue="文本值"
+          android:summary="@string/pref_showtext" />
+    <!--
+   <org.tamanegi.aneko.SkinPreference
+      android:key="motion.skin"
+      android:title="@string/pref_motion_skin_title"
+      android:summary="@string/pref_motion_skin_summary"
+      android:dialogTitle="@string/pref_skin_dialog_title"
+      android:defaultValue="org.tamanegi.aneko/org.tamanegi.aneko.NekoSkin"
+      />
+      -->
+ </PreferenceCategory>
+
+</PreferenceScreen>

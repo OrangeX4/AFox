@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_2340dfba89ac81d72b058e12cc7e161ba855cd57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_4c2d4445ea2c0a11de435c39820689ceda3f639a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_260e9e0ebff33a73bdc8943dfe2f7302ec9c5575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_f36864bee7e6e05d8ca7c1985c5202e518ae0e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_a8ca74958da366b9edb659338ff27eef403f2251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_362b62fbae048eb7d2edddd8fa6e60c104e3928d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_f8b6730ea2ecf1188034ab9186341b9312eb41d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_66f2a9d7359e0cbf06027884ac13f3513be0f738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANeko-master\CopyTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3c9d12d87464a4eb9457ef23e4681cb334574d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\ANeko-master\CopyTest\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_51fde4b16fd0a7eeb280abb2913adc017d9df2c2.jar" />
+    </item>
+
+</items>

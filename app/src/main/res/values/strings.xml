@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">某只狐狸</string>
+
+  <string name="skin_name_neko">狐狸</string>
+
+  <string name="notification_enable">狐狸在满屏乱跑</string>
+  <string name="notification_disable">狐狸在休息</string>
+
+  <string name="pref_cat_motion">对你的狐狸做点什么</string>
+
+  <string name="pref_motion_enable_title">养一只狐狸</string>
+  <string name="pref_motion_enable_summary">让狐狸出现或消失</string>
+
+  <string name="pref_motion_behaviour_title">行为</string>
+  <string name="pref_motion_behaviour_summary">狐狸的行为</string>
+  <string name="pref_motion_behaviour_default">关闭</string>
+
+  <string name="pref_motion_transparency_title">透明度</string>
+  <string name="pref_motion_transparency_summary">狐狸的透明度</string>
+
+  <string name="pref_motion_skin_title">皮肤</string>
+  <string name="pref_motion_skin_summary">猫的皮肤</string>
+  <string name="pref_skin_dialog_title">皮肤</string>
+  <string name="pref_skin_search_button">皮肤搜寻</string>
+
+  <string name="msg_skin_load_failed">皮肤加载失败</string>
+  <string name="msg_market_not_found">未找到皮肤商店.</string>
+
+  <string name="skin_search_uri">market://search?q=ANeko%20skin</string>
+
+  <string name="pref_showtext">大概是个最奇怪的生日礼物\n1、记得去开悬浮框\n(设置->授权管理->应用权限管理->某只狐狸->全部勾选上)\n2、不要关掉app\n\n\n——给燕子。</string>
+</resources>
